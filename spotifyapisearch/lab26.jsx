@@ -95,8 +95,8 @@ function App()
   .forEach((item) => setFavourites(favourites.concat(item))) || []);
 
   /*************** code used from source above starts here ********************/
-  const CLIENT_ID = "f29b7546d1414f9c9a6801e2e35e960a";
-  const REDIRECT_URI = "http://127.0.0.1:5500/";
+  const CLIENT_ID = "";
+  const REDIRECT_URI = "";
   const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize";
   const RESPONSE_TYPE = "token";
 
