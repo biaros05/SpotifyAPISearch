@@ -6,5 +6,7 @@ Create an app and select "Web API" for the question asking which APIs are you pl
 Once this is done, please head to the lab26.jsx file and replace the following variables with the correct values according to your credentials:
 ```
   const CLIENT_ID = "CLIENT ID HERE";
-  const REDIRECT_URI = "REDIRECT URL HERE";
+  const REDIRECT_URI = "REDIRECT URI HERE";
 ```
+Please make sure the redirect uri corresponds to the one on your dashboard!
+Once this is done, you are ready to use the API! Enjoy :)
